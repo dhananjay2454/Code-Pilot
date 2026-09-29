@@ -1,0 +1,4 @@
+project_id = "dregooubknmukhmyrdhd"
+
+[functions.reverse-engineer]
+verify_jwt = false
